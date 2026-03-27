@@ -1,0 +1,6 @@
+sessions/
+.wwebjs_auth/
+.wwebjs_cache/
+node_modules/
+__pycache__/
+*.log
