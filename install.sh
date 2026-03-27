@@ -25,9 +25,9 @@ if [ ! -d "sessions" ]; then
   echo -e "${GREEN}[V] Dossier de session créé.${NC}"
 fi
 
-chmod +x main.py
+chmod +x DarkBomber.py
 
 echo -e "${GREEN}###############################################"
-echo -e "#    INSTALLATION TERMINÉE AVEC SUCCÈS        #"
-echo -e "#    Lancer avec : python3 main.py            #"
+echo -e "#    INSTALLATION TERMINÉE AVEC SUCCÈS           #"
+echo -e "#    Lancer avec : python3 DarkBomber.py         #"
 echo -e "###############################################${NC}"
